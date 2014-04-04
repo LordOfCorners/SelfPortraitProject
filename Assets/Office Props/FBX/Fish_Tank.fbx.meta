@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: 65fddd4595023481c8b6d11a9074a249
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Glass
+    100002: Stones
+    100004: Frame
+    100006: Water
+    100008: //RootNode
+    100010: Plants
+    400000: Glass
+    400002: Stones
+    400004: Frame
+    400006: Water
+    400008: //RootNode
+    400010: Plants
+    2300000: Glass
+    2300002: Stones
+    2300004: Frame
+    2300006: Water
+    2300008: Plants
+    3300000: Glass
+    3300002: Stones
+    3300004: Frame
+    3300006: Water
+    3300008: Plants
+    4300000: Water
+    4300002: Plants
+    4300004: Stones
+    4300006: Glass
+    4300008: Frame
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

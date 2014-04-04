@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: ee16b69f34d76694a99c3c36334a5560
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: chopsticks
+    100002: chopsticks001
+    100004: chopstickstand
+    100006: //RootNode
+    100008: panfrieddumpling
+    100010: panfrieddumpling003
+    100012: panfrieddumpling004
+    100014: pie
+    100016: pie001
+    100018: plate
+    100020: saucervinegar
+    100022: stuffedbun
+    100024: stuffedbun001
+    100026: stuffedbun002
+    100028: twistedroll
+    100030: twistedroll001
+    400000: chopsticks
+    400002: chopsticks001
+    400004: chopstickstand
+    400006: //RootNode
+    400008: panfrieddumpling
+    400010: panfrieddumpling003
+    400012: panfrieddumpling004
+    400014: pie
+    400016: pie001
+    400018: plate
+    400020: saucervinegar
+    400022: stuffedbun
+    400024: stuffedbun001
+    400026: stuffedbun002
+    400028: twistedroll
+    400030: twistedroll001
+    2300000: chopsticks
+    2300002: chopsticks001
+    2300004: chopstickstand
+    2300006: panfrieddumpling
+    2300008: panfrieddumpling003
+    2300010: panfrieddumpling004
+    2300012: pie
+    2300014: pie001
+    2300016: plate
+    2300018: saucervinegar
+    2300020: stuffedbun
+    2300022: stuffedbun001
+    2300024: stuffedbun002
+    2300026: twistedroll
+    2300028: twistedroll001
+    3300000: chopsticks
+    3300002: chopsticks001
+    3300004: chopstickstand
+    3300006: panfrieddumpling
+    3300008: panfrieddumpling003
+    3300010: panfrieddumpling004
+    3300012: pie
+    3300014: pie001
+    3300016: plate
+    3300018: saucervinegar
+    3300020: stuffedbun
+    3300022: stuffedbun001
+    3300024: stuffedbun002
+    3300026: twistedroll
+    3300028: twistedroll001
+    4300000: plate
+    4300002: panfrieddumpling
+    4300004: twistedroll
+    4300006: chopstickstand
+    4300008: pie
+    4300010: saucervinegar
+    4300012: chopsticks
+    4300014: stuffedbun
+    4300016: pie001
+    4300018: panfrieddumpling003
+    4300020: panfrieddumpling004
+    4300022: chopsticks001
+    4300024: stuffedbun001
+    4300026: stuffedbun002
+    4300028: twistedroll001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
